@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Quantico:400,300,700);
+
+body {
+  font-family: 'Quantico', sans-serif;
+  font-size: 20px;
+}
+
+.jumbotron {
+    font-family: 'Quantico', sans-serif;
+    position: relative;
+    background: #000 url("/pics/house-kv.jpg") no-repeat center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    max-height: 320px;
+    color: #CDCDCD ;
+}
